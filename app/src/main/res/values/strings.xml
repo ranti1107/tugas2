@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tugas2</string>
+    <string name="content_text"> MacBook Pro </string>
+    <string name="content_desc"> Barang baru, bukan barang second. Barang datang langsung dari store apple.
+    Jika kalian semua berminat bisa langsung pesan melalui laman ini. Packing dipastikan aman menggunakan wrapbubble yang banyak.
+    </string>
+    <string name="content_specs_display"> Layar 13,3 inci (diagonal).\nLampu latar LED dan teknologi IPS.\nResolusi 2560 x 1600 pada 227 piksel per inci dengan dukungan untuk jutaan warna.\nSkala resolusi yang didukung: 1680 x 1050, 1440 x 900, 1024 x 640.\nKecerahan 500 nit.\nWarna Luas (P3).\nTeknologi True Tone
+    </string>
+    <string name="prosesor">Intel Core i5 quad-core 1,4 GHz, Turbo Boost hingga 3,9 GHz\nDengan eDRAM sebesar 128 MB</string>
+    <string name="content_specs_memori">Memori terpasang LPDDR3 2133 MHz sebesar 8 GB</string>
+    <string name="content_specs_battery">Web nirkabel hingga 10 jam\nPemutaran film iTunes hingga 10 jam\nWaktu siaga hingga 30 hari\nBaterai lithium-polymer bawaan 58,2 watt-jam\nAdaptor Daya USB-C 61W</string>
+    <string name="content_price">Rp. 18.189.999 </string>
+</resources>
